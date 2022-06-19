@@ -1,0 +1,4 @@
+python-telegram-bot>=20.0a0
+requests>=2.27.1
+urllib3>=1.26.9
+beautifulsoup4
